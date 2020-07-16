@@ -11,11 +11,17 @@
 **Mentor:**  Susan Borda, University of Michigan ([sborda@umich.edu](mailto:sborda@umich.edu))
 
 
-**Suggested Citation:** Bouquin, Daina; Hou, Sophie; Benzing, Matthew; Wilson, Lee. (2019). Jupyter Notebooks: A Primer for Data Curators. [Data Curation Network GitHub Repository.](https://github.com/DataCurationNetwork/data-primers)  
+**Suggested Citation:** Bouquin, Daina; Hou, Sophie; Benzing, Matthew; Wilson, Lee. (2019). Jupyter 
+Notebooks: A Primer for Data Curators. [Data Curation Network GitHub Repository.](https://github.com/DataCurationNetwork/data-primers)  
 
-An archived version of this primer is available at:  Bouquin, Daina; Hou, Sophie; Benzing, Matthew; Wilson, Lee. (2019). Jupyter Notebooks: A Primer for Data Curators. Data Curation Network. Retrieved from the University of Minnesota Digital Conservancy, http://hdl.handle.net/11299/202815.
+An archived version of this primer is available at:  Bouquin, Daina; Hou, Sophie; Benzing, Matthew; 
+Wilson, Lee. (2019). Jupyter Notebooks: A Primer for Data Curators. Data Curation Network. Retrieved 
+from the University of Minnesota Digital Conservancy, http://hdl.handle.net/11299/202815.
 
-This work was created as part of the Data Curation Network “Specialized Data Curation” Workshop #1 co-located with the Digital Library Federation (DLF) Forum 2018 in Las Vegas, Nevada on October 17-18, 2018.  These workshops have been generously funded by the Institute of Museum and Library Services # RE-85-18-0040-18.
+This work was created as part of the Data Curation Network “Specialized Data Curation” Workshop #1 
+co-located with the Digital Library Federation (DLF) Forum 2018 in Las Vegas, Nevada on October 
+17-18, 2018.  These workshops have been generously funded by the Institute of Museum and Library 
+Services # RE-85-18-0040-18.
 
 See also: Primers authored by the workshop attendees at DLF: http://datacurationnetwork.org.
 
@@ -62,7 +68,21 @@ See also: Primers authored by the workshop attendees at DLF: http://datacuration
 
 ## Background
 
-Jupyter Notebooks are composite digital objects used to develop, share, view, and execute interspersed, interlinked, and interactive documentation, equations, visualizations, and code. Researchers seeking to deposit software, in this case Jupyter Notebooks, in repositories do so with the expectation that repositories will provide documentation explaining &quot;what you can deposit, the supported file formats for deposits, what metadata you may need to provide, how to provide this metadata and what happens after you make your deposit&quot; (Jackson, 2018a). This expectation is not necessarily met by repositories that currently accept software deposits and complex objects like Jupyter Notebooks. This guide is meant to both inform curatorial practices around Jupyter Notebooks, and support the development of resources that meet researchers&#39; expectations to ensure long-term availability of software in curated archival repositories. Guidance provided by the Software Sustainability Institute (1), funded by Jisc (2), outlines three different kinds of software deposits: a minimal deposit, a runnable deposit, and a comprehensive deposit (Jackson, 2018b). This primer follows this same conceptual framework in dealing with Jupyter Notebooks, which even in their static, non-executable form, can be used to document how scientific research was carried out or be used as teaching models among many other use cases.
+Jupyter Notebooks are composite digital objects used to develop, share, view, and execute 
+interspersed, interlinked, and interactive documentation, equations, visualizations, and code. Researchers 
+seeking to deposit software, in this case Jupyter Notebooks, in repositories do so with the 
+expectation that repositories will provide documentation explaining &quot;what you can deposit, the 
+supported file formats for deposits, what metadata you may need to provide, how to provide this 
+metadata and what happens after you make your deposit&quot; (Jackson, 2018a). This expectation is 
+not necessarily met by repositories that currently accept software deposits and complex objects like 
+Jupyter Notebooks. This guide is meant to both inform curatorial practices around Jupyter Notebooks, 
+and support the development of resources that meet researchers&#39; expectations to ensure long-term 
+availability of software in curated archival repositories. Guidance provided by the Software 
+Sustainability Institute (1), funded by Jisc (2), outlines three different kinds of software 
+deposits: a minimal deposit, a runnable deposit, and a comprehensive deposit (Jackson, 2018b). This 
+primer follows this same conceptual framework in dealing with Jupyter Notebooks, which even in their 
+static, non-executable form, can be used to document how scientific research was carried out or be 
+used as teaching models among many other use cases.
 
 ## Jupyter Notebook Format Description
 
